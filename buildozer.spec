@@ -15,7 +15,8 @@ android.permissions = BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BLUETOOTH_SCAN
 
 android.api = 34
 android.minapi = 24
-android.archs = arm64-v8a, armeabi-v7a
+android.ndk = 25b
+android.archs = arm64-v8a
 android.accept_sdk_license = True
 
 [buildozer]
