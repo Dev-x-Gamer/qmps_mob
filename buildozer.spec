@@ -7,6 +7,7 @@ source.include_exts = py,png,jpg,kv,json
 version = 1.0
 
 requirements = python3,kivy==2.3.0,pyjnius,android
+p4a.branch = v2024.01.21
 orientation = portrait
 fullscreen = 0
 
